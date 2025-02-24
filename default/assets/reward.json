@@ -1,0 +1,162 @@
+{
+  "appstore_id": "1234567",
+  "srcUrls": [
+    "http://new-demo.adx.ms/sources/creative/1073745253/618/948b553b973172afe840d55d29faec4d.mp4"
+  ],
+  "video_skip": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_skip\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=c6c136639be9bb82d3f629ffbcf20fe2\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "video_exit_full": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_exit_full\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=55b78ac81a32c710004f04c8182b6391\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "cache": 0,
+  "cid": "1760391",
+  "creative_type": 2,
+  "width": 720,
+  "fpool_id": "",
+  "video_mute": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_mute\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=b332e9591cc807ec83717477647cc605\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "priority": 3,
+  "responUrl": [
+    "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026log_type=3\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026group_id=\u0026abt_group_id=\u0026req_t=1678875790583\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "big_group": "5721",
+  "from_id": "10447",
+  "cat": "70101",
+  "video_one_quarter": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_one_quarter\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=edb71c33dd4b6ed8bafb537a74a390d4\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "video_one_half": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_one_half\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=9bd188ac4a988d6517ff022c2c346a95\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "errorUrl": [
+    "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=\u0026adv_id=\u0026strategy_dealid=\u0026media_id=\u0026log_type=502\u0026msec=__MS_EVENT_MSEC__\u0026errno=__ERROR_CODE__\u0026error=__ERROR_MESSAGE__"
+  ],
+  "height": 1280,
+  "video_duration": 13,
+  "video_full": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_full\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=1c3ee6f2645944da3f7fd54ef8fb1299\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "video_unmute": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_unmute\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=eebbc60ec3fc935a76a17668a43fbbd7\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "monitorUrl": [
+    "http://test.1rtb.com/imp?ext_data=YW1pZD0xMDczNzQ1MjUzLG9pZD0xMDAwMDAxMTAwMTMzNTczLGNpZD0sdXVpZD1VRGJuaTNtRjdzYXZadVFyYUFiSkFlLG1lPW1zLGV4PTc0NyxwYz0wLGxpZD04ZWRiYjFlNTMsbmF0PTEsdnI9MCx2ZXg9NzQ3LGZhbj0wLjAwMDAsdWlwPTYxLjE0OS41LjEyOCx0cmFjZT0lN0IlMjJleCUyMiUzQSUyMjc0NyUyMiUyQyUyMm1vYmlsZSUyMiUzQSU3QiUyMnlpZCUyMiUzQSUyMjEwMTkwMSUyMiUyQyUyMm5tJTIyJTNBJTIyJTIyJTJDJTIydiUyMiUzQSUyMiUyMiU3RCUyQyUyMmV0JTIyJTNBJTdCJTIyYmlkJTIyJTNBMTY3ODg3NTc5MyU3RCUyQyUyMm1lJTIyJTNBJTIybXMlMjIlMkMlMjJldiUyMiUzQSUyMmJpZCUyMiUyQyUyMmlwJTIyJTNBJTIyNjEuMTQ5LjUuMTI4JTIyJTdELHV0PTE2Nzg4NzU3OTMsc2E9MzI1MDg3MzI5OSxkb209LHBpZD0xMDA0MjQ3ODIsb2NjPWNpbSxjY3A9MzMzMDAwMDAwLGFpZD0xMDAwMDAxMTAwMDI1NzM4LHk9MCxhdj0wLG9zaWQ9MixjcD0wLHZjcD0w\u0026ver=1\u0026reqid=747\u0026price=1XSQcPT70UxSoRkZ9BveOQ",
+    "http://sdk-demo.1rtb.net/imp?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026rtime=1678875790\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=84705923147312c1ba0c383604a7730a\u0026msec=__MS_EVENT_MSEC__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026price=sspMjAwMA==\u0026account_id=204891\u0026pre=sspMjAwMA=="
+  ],
+  "clickUrl": [
+    "http://test.1rtb.com/clk?ext_data=YW1pZD0xMDczNzQ1MjUzLG9pZD0xMDAwMDAxMTAwMTMzNTczLGNpZD0sdXVpZD1VRGJuaTNtRjdzYXZadVFyYUFiSkFlLG1lPW1zLGV4PTc0NyxwYz0wLGxpZD04ZWRiYjFlNTMsbmF0PTEsdnI9MCx2ZXg9NzQ3LGZhbj0wLjAwMDAsdWlwPTYxLjE0OS41LjEyOCx0cmFjZT0lN0IlMjJleCUyMiUzQSUyMjc0NyUyMiUyQyUyMm1vYmlsZSUyMiUzQSU3QiUyMnlpZCUyMiUzQSUyMjEwMTkwMSUyMiUyQyUyMm5tJTIyJTNBJTIyJTIyJTJDJTIydiUyMiUzQSUyMiUyMiU3RCUyQyUyMmV0JTIyJTNBJTdCJTIyYmlkJTIyJTNBMTY3ODg3NTc5MyU3RCUyQyUyMm1lJTIyJTNBJTIybXMlMjIlMkMlMjJldiUyMiUzQSUyMmJpZCUyMiUyQyUyMmlwJTIyJTNBJTIyNjEuMTQ5LjUuMTI4JTIyJTdELHV0PTE2Nzg4NzU3OTMsc2E9MzI1MDg3MzI5OSxkb209LHBpZD0xMDA0MjQ3ODIsb2NjPWNpbSxjY3A9MzMzMDAwMDAwLGFpZD0xMDAwMDAxMTAwMDI1NzM4LHk9MCxhdj0wLG9zaWQ9MixjcD0wLHZjcD0w\u0026ver=1\u0026url=",
+    "http://sdk-demo.1rtb.net/clk?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026flag=\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=fd8736144dd423e49f9107a18f69c0a5\u0026msec=__MS_EVENT_MSEC__\u0026clk_down=__DOWN_X__,__DOWN_Y__\u0026clk_up=__UP_X__,__UP_Y__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026account_id=204891"
+  ],
+  "ecpm": 200,
+  "drawing": 2,
+  "ader_id": "204891",
+  "title": "测试激励视频",
+  "video_pause": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_pause\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=7a044ad335a59b36c6cf39e5d72ca11b\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "clickable_range": 1,
+  "rstUrl": [
+    "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=\u0026log_type=200\u0026msec=__MS_EVENT_MSEC__"
+  ],
+  "video_replay": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_replay\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=47b3fd57ffb51ba0b79e3f6a81ac3ea9\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "video_close": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_close\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=1d5511a2564317d48f7eea67a3f01af1\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "close_btn": 1,
+  "target_type": 0,
+  "dUrl": [
+    "http://sdk-demo.1rtb.net/ldp?req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026dealid=5674\u0026mid=101901\u0026app_package=\u0026agid=1073746758\u0026ldp=http%3A%2F%2Fwww.baidu.com"
+  ],
+  "video_complete": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_complete\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=9616dbe71a735a72f7952bd71d4efa93\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "req_id": "1e665645-e00c-44e0-a6b8-64119c8e0695",
+  "sdk_monitor": {
+    "rsp": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100424782\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=101901\u0026log_type=2\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026bprice=__PRICE__\u0026timeout=__TIMEOUT__\u0026final_rsp=__FINAL__\u0026os=android\u0026sdk_ver=1.5.0.1\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026p=__P__\u0026s=__S__\u0026pst=__PST__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026req_t=1678875790583",
+    "imp": "http://sdk-demo.1rtb.net/imp?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100424782\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=101901\u0026creative_id=\u0026rtime=1678875790\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=ae56ca14b440882d3dbc24af053b7b33\u0026msec=__MS_EVENT_MSEC__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026pre=__PRE__\u0026price=__PRICE__\u0026ereport=sdk\u0026accept_advid=__ACCEPT_PID__\u0026accept_appid=__ACCEPT_APPID__\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026next=__NEXT__\u0026reuse=__REUSE__",
+    "clk": "http://sdk-demo.1rtb.net/clk?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100424782\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=101901\u0026creative_id=\u0026flag=\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=a1d9523c9c5b37fc3c377a0eef8ac2c3\u0026msec=__MS_EVENT_MSEC__\u0026clk_down=__DOWN_X__,__DOWN_Y__\u0026clk_up=__UP_X__,__UP_Y__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026ereport=sdk\u0026accept_advid=__ACCEPT_PID__\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026next=__NEXT__\u0026reuse=__REUSE__",
+    "err": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100424782\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=101901\u0026log_type=404\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026timeout=__TIMEOUT__\u0026errno=__ERROR_CODE__\u0026error=__ERROR_MESSAGE__\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026pst=__PST__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026mserron=__MS_ERRNO__\u0026p=__P__\u0026s=__S__",
+    "req": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100424782\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=101901\u0026log_type=1\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  },
+  "video_three_quarter": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_three_quarter\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=1cb5b2fc431bbd8691337c2a887d7f0a\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "video_resume": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_resume\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=aff1dce53e2b1e1b86c37cfb97eeeb00\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ],
+  "sdk": [
+    {
+      "pid": "5925490",
+      "app_id": "d3a8ac55",
+      "accept_id": "10284",
+      "sdk": "BAIDU",
+      "priority": 3,
+      "otype": "bidding",
+      "drawing": 2,
+      "strategy_dealid": "5721",
+      "big_group": "5721",
+      "group": "5721_b0",
+      "is_bidding": 1,
+      "score": 0,
+      "price": 900,
+      "pre": 900
+    },
+    {
+      "score": 0,
+      "app_id": "1101152570",
+      "accept_id": "10761",
+      "big_group": "5721",
+      "group": "5721_b0",
+      "is_bidding": 1,
+      "otype": "price",
+      "pid": "6040295592058680",
+      "drawing": 2,
+      "strategy_dealid": "5721",
+      "pre": 900,
+      "priority": 3,
+      "price": 900,
+      "sdk": "GDT"
+    },
+    {
+      "group": "5721_b0",
+      "is_bidding": 1,
+      "score": 0,
+      "big_group": "5721",
+      "pid": "8175000041",
+      "price": 400,
+      "app_id": "90009",
+      "drawing": 2,
+      "strategy_dealid": "5721",
+      "pre": 400,
+      "priority": 3,
+      "otype": "price",
+      "sdk": "KS",
+      "accept_id": "10367"
+    },
+    {
+      "group": "5721_b0",
+      "is_bidding": 1,
+      "score": 0,
+      "big_group": "5721",
+      "pid": "938235973",
+      "price": 40000,
+      "app_id": "5038235",
+      "drawing": 2,
+      "strategy_dealid": "5721",
+      "pre": 400,
+      "priority": 3,
+      "otype": "price",
+      "sdk": "CSJ",
+      "accept_id": "10367"
+    }
+  ],
+  "pid": "100424782",
+  "video_cover": "http://new-demo.adx.ms/sources/creative/1073745253/208/bdbbcbed2c4aaa49c2154e66d8c7beeb.jpg",
+  "video_start": [
+    "http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=1e665645-e00c-44e0-a6b8-64119c8e0695\u0026accept_id=10447\u0026adv_id=100424782\u0026strategy_dealid=5674\u0026media_id=101901\u0026creative_id=1760391\u0026track=video\u0026event=video_start\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=3c9c149de46cbb1db46ae83fbbcedf65\u0026cuuid=__UUID__\u0026suuid=__SUUID__"
+  ]
+}

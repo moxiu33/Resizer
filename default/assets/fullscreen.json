@@ -1,0 +1,41 @@
+{
+  "cache": 0,
+  "pid": "1040496",
+  "width": 640,
+  "height": 360,
+  "all_timeout": 10000,
+  "req_id": "f34098bc-9984-4b91-af42-642255cb02e6",
+  "sdk_monitor": {
+    "imp": "http://sdk.1rtb.net/imp?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=__ACCEPT_ID__\u0026adv_id=1040496\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105703\u0026creative_id=\u0026rtime=1679971787\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=2f5ea3bd34d1b0c216ce2293761d4b50\u0026msec=__MS_EVENT_MSEC__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026pre=__PRE__\u0026price=__PRICE__\u0026ereport=sdk\u0026accept_advid=__ACCEPT_PID__\u0026accept_appid=__ACCEPT_APPID__\u0026a=__SDK__\u0026group_id=__GROUP_ID__",
+    "clk": "http://sdk.1rtb.net/clk?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=__ACCEPT_ID__\u0026adv_id=1040496\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105703\u0026creative_id=\u0026flag=\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026signature=5a5fa1e5f112eb4984291875d91f26a4\u0026msec=__MS_EVENT_MSEC__\u0026clk_down=__DOWN_X__,__DOWN_Y__\u0026clk_up=__UP_X__,__UP_Y__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026ereport=sdk\u0026accept_advid=__ACCEPT_PID__\u0026a=__SDK__\u0026group_id=__GROUP_ID__",
+    "err": "http://sdk.1rtb.net/sdk/notice?ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=__ACCEPT_ID__\u0026adv_id=1040496\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105703\u0026log_type=404\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026timeout=__TIMEOUT__\u0026errno=__ERROR_CODE__\u0026error=__ERROR_MESSAGE__\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026pst=__PST__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026mserron=__MS_ERRNO__\u0026p=__P__\u0026s=__S__",
+    "req": "http://sdk.1rtb.net/sdk/notice?ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=__ACCEPT_ID__\u0026adv_id=1040496\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105703\u0026log_type=1\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026cuuid=__UUID__\u0026suuid=__SUUID__",
+    "rsp": "http://sdk.1rtb.net/sdk/notice?ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=__ACCEPT_ID__\u0026adv_id=1040496\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105703\u0026log_type=2\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiI2MS4xNDkuNS4xMjgiLCJkZXZpY2Vfb3MiOiJhbmRyb2lkIn0=\u0026bprice=__PRICE__\u0026timeout=__TIMEOUT__\u0026final_rsp=__FINAL__\u0026os=android\u0026sdk_ver=1.5.0.1\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026p=__P__\u0026s=__S__\u0026pst=__PST__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026req_t=1679971787173"
+  },
+  "errorUrl": [
+    "http://sdk.1rtb.net/sdk/notice?ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=\u0026adv_id=\u0026strategy_dealid=\u0026media_id=\u0026log_type=502\u0026msec=__MS_EVENT_MSEC__\u0026errno=__ERROR_CODE__\u0026error=__ERROR_MESSAGE__"
+  ],
+  "fpool_id": "5004093",
+  "sdk": [
+    {
+      "pid": "90009002",
+      "accept_id": "10367",
+      "otype": "price",
+      "price": 4500,
+      "sdk": "KS",
+      "app_id": "90009",
+      "pre": 4500,
+      "big_group": "51342_0",
+      "group": "51342_0",
+      "strategy_dealid": "51342",
+      "group_id": "5004093\u0026abt_group_id=0",
+      "priority": 999,
+      "score": 0,
+      "drawing": 2
+    }
+  ],
+  "from_id": "10367",
+  "rstUrl": [
+    "http://sdk.1rtb.net/sdk/notice?ssp_req_id=f34098bc-9984-4b91-af42-642255cb02e6\u0026accept_id=10367\u0026adv_id=1040496\u0026strategy_dealid=51342\u0026media_id=\u0026log_type=200\u0026msec=__MS_EVENT_MSEC__"
+  ]
+}

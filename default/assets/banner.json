@@ -1,0 +1,92 @@
+{
+  "srcUrls": ["http://8car0x2emn.1rtb.com/virtual-materiel/1/taobao-01/banner-image-1.jpg?s=2798839&abcd=1"],
+  "sdk": [
+    {
+      "app_id": "d3a8ac55",
+      "drawing": 2,
+      "pre": 1500,
+      "is_bidding": 1,
+      "otype": "price",
+      "score": 0,
+      "price": 200,
+      "pid": "2015351",
+      "accept_id": "10284",
+      "strategy_dealid": "6080",
+      "priority": 3,
+      "big_group": "6080",
+      "group": "6080_b0",
+      "sdk": "BAIDU"
+    },
+    {
+      "priority": 3,
+      "accept_id": "10497",
+      "big_group": "6080",
+      "group": "6080_b0",
+      "app_id": "5038235",
+      "strategy_dealid": "6080",
+      "is_bidding": 1,
+      "otype": "bidding",
+      "score": 0,
+      "drawing": 2,
+      "pre": 1500,
+      "price": 2000,
+      "pid": "938235377",
+      "sdk": "CSJ"
+    },
+    {
+      "priority": 3,
+      "accept_id": "10497",
+      "big_group": "6080",
+      "group": "6080_b0",
+      "app_id": "1101152570",
+      "strategy_dealid": "6080",
+      "is_bidding": 1,
+      "otype": "price",
+      "score": 0,
+      "drawing": 2,
+      "pre": 1500,
+      "price": 1900,
+      "pid": "4080052898050840",
+      "sdk": "GDT"
+    }
+  ],
+  "fpool_id": "",
+  "errorUrl": ["http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=&adv_id=&strategy_dealid=&media_id=&log_type=502&msec=__MS_EVENT_MSEC__&errno=__ERROR_CODE__&error=__ERROR_MESSAGE__"],
+  "req_id": "c629e913-e717-4767-9b72-64119406051e",
+  "dp_succ": ["http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=101901&creative_id=1760433&track=deeplink&event=dp_succ&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&signature=fca3092d24b3f06a695ea44c12ff567b&cuuid=__UUID__&suuid=__SUUID__"],
+  "big_group": "6080",
+  "from_id": "10447",
+  "creative_type": 12,
+  "height": 1280,
+  "width": 720,
+  "cat": "70101",
+  "dp_fail": ["http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=101901&creative_id=1760433&track=deeplink&event=dp_fail&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&signature=dbd413eaecbe7e0bf3a47d08b2b37b82&cuuid=__UUID__&suuid=__SUUID__"],
+  "drawing": 2,
+  "ader_id": "204891",
+  "dp_start": ["http://sdk-demo.1rtb.net/tracker?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=101901&creative_id=1760433&track=deeplink&event=dp_start&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&signature=eab0c4399ed90aa543ecca10e3c1e641&cuuid=__UUID__&suuid=__SUUID__"],
+  "clickUrl": [
+    "http://test.1rtb.com/clk?ext_data=YW1pZD0xMDczNzQ1MjUzLG9pZD0xMDAwMDAxMTAwMTMzNTUyLGNpZD0sdXVpZD1VRFU2bVlpVXFGanpxRXY3c3pFekZqLG1lPW1zLGV4PTc0NyxwYz0wLGxpZD04ZWRiYjFlNTMsbmF0PTAsdnI9MCx2ZXg9NzQ3LGZhbj0wLjAwMDAsdWlwPTYxLjE0OS41LjEyOCx0cmFjZT0lN0IlMjJleCUyMiUzQSUyMjc0NyUyMiUyQyUyMm1vYmlsZSUyMiUzQSU3QiUyMnlpZCUyMiUzQSUyMjEwMTkwMSUyMiUyQyUyMm5tJTIyJTNBJTIyJTIyJTJDJTIydiUyMiUzQSUyMiUyMiU3RCUyQyUyMmV0JTIyJTNBJTdCJTIyYmlkJTIyJTNBMTY3ODg3MzYwOSU3RCUyQyUyMm1lJTIyJTNBJTIybXMlMjIlMkMlMjJldiUyMiUzQSUyMmJpZCUyMiUyQyUyMmlwJTIyJTNBJTIyNjEuMTQ5LjUuMTI4JTIyJTdELHV0PTE2Nzg4NzM2MDksc2E9MTEyNzAyNjAwLGRvbT0scGlkPTEwMDQyNDc1MSxvY2M9Y2ltLGNjcD0yOTkwMDAwMDAsYWlkPTEwMDAwMDExMDAwMjU4MDEseT0wLGF2PTAsb3NpZD0yLGNwPTAsdmNwPTA%3D&ver=1&url=",
+    "http://sdk-demo.1rtb.net/clk?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=101901&creative_id=1760433&flag=1&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&signature=838425b7bdd1bf81ccf580d9de2c801f&msec=__MS_EVENT_MSEC__&clk_down=__DOWN_X__,__DOWN_Y__&clk_up=__UP_X__,__UP_Y__&cuuid=__UUID__&suuid=__SUUID__&account_id=204891"
+  ],
+  "priority": 3,
+  "responUrl": ["http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=101901&log_type=3&msec=__MS_EVENT_MSEC__&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&group_id=&abt_group_id=&req_t=1678873606944&cuuid=__UUID__&suuid=__SUUID__"],
+  "rstUrl": ["http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=&log_type=200&msec=__MS_EVENT_MSEC__"],
+  "pid": "100424751",
+  "deep_link": "openapp.jdmobile://",
+  "monitorUrl": [
+    "http://test.1rtb.com/imp?ext_data=YW1pZD0xMDczNzQ1MjUzLG9pZD0xMDAwMDAxMTAwMTMzNTUyLGNpZD0sdXVpZD1VRFU2bVlpVXFGanpxRXY3c3pFekZqLG1lPW1zLGV4PTc0NyxwYz0wLGxpZD04ZWRiYjFlNTMsbmF0PTAsdnI9MCx2ZXg9NzQ3LGZhbj0wLjAwMDAsdWlwPTYxLjE0OS41LjEyOCx0cmFjZT0lN0IlMjJleCUyMiUzQSUyMjc0NyUyMiUyQyUyMm1vYmlsZSUyMiUzQSU3QiUyMnlpZCUyMiUzQSUyMjEwMTkwMSUyMiUyQyUyMm5tJTIyJTNBJTIyJTIyJTJDJTIydiUyMiUzQSUyMiUyMiU3RCUyQyUyMmV0JTIyJTNBJTdCJTIyYmlkJTIyJTNBMTY3ODg3MzYwOSU3RCUyQyUyMm1lJTIyJTNBJTIybXMlMjIlMkMlMjJldiUyMiUzQSUyMmJpZCUyMiUyQyUyMmlwJTIyJTNBJTIyNjEuMTQ5LjUuMTI4JTIyJTdELHV0PTE2Nzg4NzM2MDksc2E9MTEyNzAyNjAwLGRvbT0scGlkPTEwMDQyNDc1MSxvY2M9Y2ltLGNjcD0yOTkwMDAwMDAsYWlkPTEwMDAwMDExMDAwMjU4MDEseT0wLGF2PTAsb3NpZD0yLGNwPTAsdmNwPTA%3D&ver=1&reqid=747&price=1XSQcPT70UxSoRkZ9BveOQ",
+    "http://sdk-demo.1rtb.net/imp?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&strategy_dealid=5674&media_id=101901&creative_id=1760433&rtime=1678873606&pre=sspMTUwMDA=&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&deeplink=openapp.jdmobile%3A%2F%2F&signature=7768f331eb268d721c03068f266fe57a&msec=__MS_EVENT_MSEC__&cuuid=__UUID__&suuid=__SUUID__&price=sspMjAwMA==&account_id=204891"
+  ],
+  "target_type": 0,
+  "ecpm": 1500,
+  "dUrl": ["http://sdk-demo.1rtb.net/ldp?req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=10447&adv_id=100424751&dealid=5674&mid=101901&app_package=&agid=1073746758&ldp=http%3A%2F%2Fwsdww.dfghdfhdf.com"],
+  "cache": 0,
+  "cid": "1760433",
+  "sdk_monitor": {
+    "req": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=__ACCEPT_ID__&adv_id=100424751&strategy_dealid=__STRATEGY_DEALID__&media_id=101901&log_type=1&accept_advid=__ACCEPT_PID__&msec=__MS_EVENT_MSEC__&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&a=__SDK__&group_id=__GROUP_ID__&cuuid=__UUID__&suuid=__SUUID__",
+    "rsp": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=__ACCEPT_ID__&adv_id=100424751&strategy_dealid=__STRATEGY_DEALID__&media_id=101901&log_type=2&accept_advid=__ACCEPT_PID__&msec=__MS_EVENT_MSEC__&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&bprice=__PRICE__&timeout=__TIMEOUT__&final_rsp=__FINAL__&os=android&sdk_ver=1.5.0.1&a=__SDK__&group_id=__GROUP_ID__&p=__P__&s=__S__&pst=__PST__&cuuid=__UUID__&suuid=__SUUID__&req_t=1678873606944",
+    "imp": "http://sdk-demo.1rtb.net/imp?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=__ACCEPT_ID__&adv_id=100424751&strategy_dealid=__STRATEGY_DEALID__&media_id=101901&creative_id=&rtime=1678873606&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&signature=78438e863f6ed4b49a0bd7d96374da3b&msec=__MS_EVENT_MSEC__&cuuid=__UUID__&suuid=__SUUID__&pre=__PRE__&price=__PRICE__&ereport=sdk&accept_advid=__ACCEPT_PID__&accept_appid=__ACCEPT_APPID__&a=__SDK__&group_id=__GROUP_ID__",
+    "clk": "http://sdk-demo.1rtb.net/clk?ua=d41d8cd98f00b204e9800998ecf8427e&ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=__ACCEPT_ID__&adv_id=100424751&strategy_dealid=__STRATEGY_DEALID__&media_id=101901&creative_id=&flag=&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&signature=bffd7708e76752abb7119383ecdd7f15&msec=__MS_EVENT_MSEC__&clk_down=__DOWN_X__,__DOWN_Y__&clk_up=__UP_X__,__UP_Y__&cuuid=__UUID__&suuid=__SUUID__&ereport=sdk&accept_advid=__ACCEPT_PID__&a=__SDK__&group_id=__GROUP_ID__",
+    "err": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=c629e913-e717-4767-9b72-64119406051e&accept_id=__ACCEPT_ID__&adv_id=100424751&strategy_dealid=__STRATEGY_DEALID__&media_id=101901&log_type=404&accept_advid=__ACCEPT_PID__&msec=__MS_EVENT_MSEC__&ext=eyJkZXZpY2Vfb3MiOiJhbmRyb2lkIiwic2RrX3ZlcnNpb24iOiIxLjUuMC4xIiwicmVxX2lwIjoiNjEuMTQ5LjUuMTI4In0=&timeout=__TIMEOUT__&errno=__ERROR_CODE__&error=__ERROR_MESSAGE__&a=__SDK__&group_id=__GROUP_ID__&pst=__PST__&cuuid=__UUID__&suuid=__SUUID__&mserron=__MS_ERRNO__&p=__P__&s=__S__"
+  }
+}

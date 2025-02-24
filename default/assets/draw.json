@@ -1,0 +1,57 @@
+{
+  "req_id": "2bbb4fb9-4997-4e44-9bb7-6421623106bf",
+  "sdk_monitor": {
+    "req": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100425141\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105907\u0026log_type=1\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiIxMDMuNi40LjE0NSIsImRldmljZV9vcyI6ImFuZHJvaWQifQ==\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026cuuid=__UUID__\u0026suuid=__SUUID__",
+    "rsp": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100425141\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105907\u0026log_type=2\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiIxMDMuNi40LjE0NSIsImRldmljZV9vcyI6ImFuZHJvaWQifQ==\u0026bprice=__PRICE__\u0026timeout=__TIMEOUT__\u0026final_rsp=__FINAL__\u0026os=android\u0026sdk_ver=1.5.0.1\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026p=__P__\u0026s=__S__\u0026pst=__PST__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026req_t=1679909425274",
+    "imp": "http://sdk-demo.1rtb.net/imp?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100425141\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105907\u0026creative_id=\u0026rtime=1679909425\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiIxMDMuNi40LjE0NSIsImRldmljZV9vcyI6ImFuZHJvaWQifQ==\u0026signature=a9fc68dc5ded7bc1e486f72d865a4126\u0026msec=__MS_EVENT_MSEC__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026pre=__PRE__\u0026price=__PRICE__\u0026ereport=sdk\u0026accept_advid=__ACCEPT_PID__\u0026accept_appid=__ACCEPT_APPID__\u0026a=__SDK__\u0026group_id=__GROUP_ID__",
+    "clk": "http://sdk-demo.1rtb.net/clk?ua=d41d8cd98f00b204e9800998ecf8427e\u0026ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100425141\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105907\u0026creative_id=\u0026flag=\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiIxMDMuNi40LjE0NSIsImRldmljZV9vcyI6ImFuZHJvaWQifQ==\u0026signature=42177bf4dc7e4877439d4faaeabdf514\u0026msec=__MS_EVENT_MSEC__\u0026clk_down=__DOWN_X__,__DOWN_Y__\u0026clk_up=__UP_X__,__UP_Y__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026ereport=sdk\u0026accept_advid=__ACCEPT_PID__\u0026a=__SDK__\u0026group_id=__GROUP_ID__",
+    "err": "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=__ACCEPT_ID__\u0026adv_id=100425141\u0026strategy_dealid=__STRATEGY_DEALID__\u0026media_id=105907\u0026log_type=404\u0026accept_advid=__ACCEPT_PID__\u0026msec=__MS_EVENT_MSEC__\u0026ext=eyJzZGtfdmVyc2lvbiI6IjEuNS4wLjEiLCJyZXFfaXAiOiIxMDMuNi40LjE0NSIsImRldmljZV9vcyI6ImFuZHJvaWQifQ==\u0026timeout=__TIMEOUT__\u0026errno=__ERROR_CODE__\u0026error=__ERROR_MESSAGE__\u0026a=__SDK__\u0026group_id=__GROUP_ID__\u0026pst=__PST__\u0026cuuid=__UUID__\u0026suuid=__SUUID__\u0026mserron=__MS_ERRNO__\u0026p=__P__\u0026s=__S__"
+  },
+  "errorUrl": [
+    "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=\u0026adv_id=\u0026strategy_dealid=\u0026media_id=\u0026log_type=502\u0026msec=__MS_EVENT_MSEC__\u0026errno=__ERROR_CODE__\u0026error=__ERROR_MESSAGE__"
+  ],
+  "rstUrl": [
+    "http://sdk-demo.1rtb.net/sdk/notice?ssp_req_id=2bbb4fb9-4997-4e44-9bb7-6421623106bf\u0026accept_id=10367\u0026adv_id=100425141\u0026strategy_dealid=40700\u0026media_id=\u0026log_type=200\u0026msec=__MS_EVENT_MSEC__"
+  ],
+  "pid": "100425141",
+  "height": 360,
+  "width": 640,
+  "sdk": [
+    {
+      "big_group": "40700_0",
+      "price": 4500,
+      "drawing": 2,
+      "strategy_dealid": "40700",
+      "app_id": "90009",
+      "pre": 4500,
+      "priority": 999,
+      "sdk": "KS",
+      "group_id": "5000335\u0026abt_group_id=0",
+      "otype": "price",
+      "group": "40700_0",
+      "score": 0,
+      "pid": "944571564",
+      "accept_id": "10367"
+    },
+    {
+      "price": 4500,
+      "strategy_dealid": "39828",
+      "otype": "price",
+      "group": "39828_0",
+      "app_id": "5038235",
+      "drawing": 2,
+      "pid": "944571564",
+      "sdk": "CSJ",
+      "group_id": "5000335\u0026abt_group_id=0",
+      "big_group": "40700_0",
+      "accept_id": "10279",
+      "score": 0,
+      "pre": 4500,
+      "priority": 999
+    }
+  ],
+  "all_timeout": 10000,
+  "from_id": "10367",
+  "cache": 0,
+  "fpool_id": "5000335"
+}
